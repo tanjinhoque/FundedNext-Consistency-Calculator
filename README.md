@@ -1,2 +1,2 @@
 # FundedNext-Consistency-Calculator
-nternal FundedNext Consistency Rule Calculator
+Internal FundedNext Consistency Rule Calculator
